@@ -1,0 +1,13 @@
+/.local/
+
+# IDEs
+/.idea/
+/.junie/
+/.fleet/
+/.air/
+/.vscode/
+
+# macOS
+.DS_Store
+__MACOSX
+*.icloud

@@ -1,0 +1,53 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "implario:font/keys/left_mouse_button.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "implario:font/keys/middle_mouse_button.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "implario:font/keys/right_mouse_button.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "implario:font/keys/space_keyboard_button.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "implario:font/keys/shift_keyboard_button.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "implario:font/keys/q_keyboard_button.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "implario:font/keys/f_keyboard_button.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    }
+  ]
+}

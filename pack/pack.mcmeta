@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 84,
+    "description": [
+      {
+        "text": "Implario Resourcepack",
+        "type": "text",
+        "color": "#2C5BDD"
+      },
+      "\n",
+      {
+        "text": "Играй на ",
+        "type": "text",
+        "extra": [
+          {
+            "text": "implario.net",
+            "type": "text",
+            "color": "#2C5BDD"
+          }
+        ],
+        "color": "gray"
+      }
+    ],
+    "supported_formats": [9, 84],
+    "min_format": 9,
+    "max_format": 84
+  }
+}

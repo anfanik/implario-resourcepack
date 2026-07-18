@@ -1,0 +1,66 @@
+name: Build & Publish resource pack
+on:
+  push:
+    tags:
+      - '**'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build resource pack
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare build folder
+        run: |
+          echo "Creating build folder"
+          mkdir build
+
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
+          options: |
+            pack_directory = 'pack'
+            output_file_path = 'build/implario-resourcepack.zip'
+
+            validate_pack_metadata_file = true
+
+            recompress_compressed_files = true
+            zip_compression_iterations = 30
+            zip_spec_conformance_level = 'disregard'
+            size_increasing_zip_obfuscation = true
+
+            ['betterhud_**/**']
+            force_include = true
+          artifact_name: 'artifacts'
+
+  publish:
+    name: Publish resource pack
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Download artifacts
+        uses: actions/download-artifact@v4
+        with:
+          name: artifacts
+          path: ./build/
+
+      - name: Publish to S3
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --endpoint-url $AWS_S3_ENDPOINT
+        env:
+          AWS_S3_ENDPOINT: ${{ vars.S3_ENDPOINT }}
+          AWS_S3_BUCKET: ${{ vars.S3_BUCKET }}
+
+          AWS_ACCESS_KEY_ID: ${{ secrets.S3_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.S3_SECRET_ACCESS_KEY }}
+
+          SOURCE_DIR: 'build'
