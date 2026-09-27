@@ -1,0 +1,80 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "glyphium:util"
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/x8.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue020"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.c.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue024"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.l.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue025"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.r.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue026"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/slot.png",
+      "ascent": 8,
+      "height": 18,
+      "chars": [
+        "\ue02a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r1x8.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue02b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r2x8.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue02e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r4x8.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue031"
+      ]
+    }
+  ]
+}

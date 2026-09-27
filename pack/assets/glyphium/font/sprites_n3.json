@@ -1,0 +1,17 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "glyphium:util"
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/slot.png",
+      "ascent": 10,
+      "height": 18,
+      "chars": [
+        "\ue02a"
+      ]
+    }
+  ]
+}
