@@ -6,11 +6,488 @@
     },
     {
       "type": "bitmap",
+      "file": "glyphium:font/button.b.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button.bl.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button.br.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button.c.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button.l.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button.r.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button.t.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button.tl.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button.tr.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.b.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.bl.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue00a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.br.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue00b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.c.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue00c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.l.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue00d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.r.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue00e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.t.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue00f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.tl.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_accent.tr.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.b.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.bl.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.br.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.c.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.l.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.r.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.t.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.tl.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/button_disabled.tr.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue01a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/x1.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue01b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r1x2.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue01c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/x2.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue01d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r1x4.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue01e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/x4.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue01f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/x8.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue020"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.b.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue021"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.bl.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue022"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.br.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue023"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.c.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue024"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.l.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue025"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.r.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue026"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.t.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue027"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.tl.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue028"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/panel.tr.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue029"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "glyphium:font/slot.png",
       "ascent": 10,
       "height": 18,
       "chars": [
         "\ue02a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r1x8.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue02b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r2x1.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue02c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r2x4.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue02d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r2x8.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue02e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r4x1.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue02f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r4x2.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue030"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r4x8.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue031"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r8x1.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue032"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r8x2.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue033"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/fill/r8x4.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue034"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "glyphium:font/marks/bullet.png",
+      "ascent": 10,
+      "height": 16,
+      "chars": [
+        "\ue037"
       ]
     }
   ]

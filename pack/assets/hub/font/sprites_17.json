@@ -17,7 +17,7 @@
       "type": "bitmap",
       "file": "hub:font/icons/coin.png",
       "ascent": -10,
-      "height": 9,
+      "height": 16,
       "chars": [
         "\ue001"
       ]
@@ -26,7 +26,7 @@
       "type": "bitmap",
       "file": "hub:font/icons/gem.png",
       "ascent": -10,
-      "height": 9,
+      "height": 16,
       "chars": [
         "\ue002"
       ]
@@ -44,7 +44,7 @@
       "type": "bitmap",
       "file": "hub:font/icons/search.png",
       "ascent": -10,
-      "height": 9,
+      "height": 16,
       "chars": [
         "\ue004"
       ]
@@ -71,7 +71,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.b.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue007"
       ]
@@ -80,7 +80,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.bl.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue008"
       ]
@@ -89,7 +89,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.br.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue009"
       ]
@@ -98,7 +98,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.c.png",
       "ascent": -10,
-      "height": 8,
+      "height": 16,
       "chars": [
         "\ue00a"
       ]
@@ -107,7 +107,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.l.png",
       "ascent": -10,
-      "height": 8,
+      "height": 16,
       "chars": [
         "\ue00b"
       ]
@@ -116,7 +116,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.r.png",
       "ascent": -10,
-      "height": 8,
+      "height": 16,
       "chars": [
         "\ue00c"
       ]
@@ -125,7 +125,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.t.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue00d"
       ]
@@ -134,7 +134,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.tl.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue00e"
       ]
@@ -143,7 +143,7 @@
       "type": "bitmap",
       "file": "hub:font/shop/banner.tr.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue00f"
       ]
@@ -170,7 +170,7 @@
       "type": "bitmap",
       "file": "hub:font/games/card_footer.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue012"
       ]
@@ -233,7 +233,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.b.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue019"
       ]
@@ -242,7 +242,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.bl.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue01a"
       ]
@@ -251,7 +251,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.br.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue01b"
       ]
@@ -260,7 +260,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.c.png",
       "ascent": -10,
-      "height": 15,
+      "height": 16,
       "chars": [
         "\ue01c"
       ]
@@ -269,7 +269,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.l.png",
       "ascent": -10,
-      "height": 15,
+      "height": 16,
       "chars": [
         "\ue01d"
       ]
@@ -278,7 +278,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.r.png",
       "ascent": -10,
-      "height": 15,
+      "height": 16,
       "chars": [
         "\ue01e"
       ]
@@ -287,7 +287,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.t.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue01f"
       ]
@@ -296,7 +296,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.tl.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue020"
       ]
@@ -305,7 +305,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button.tr.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue021"
       ]
@@ -314,7 +314,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button_footer.c.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue022"
       ]
@@ -323,7 +323,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button_footer.l.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue023"
       ]
@@ -332,7 +332,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_button_footer.r.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue024"
       ]
@@ -341,7 +341,7 @@
       "type": "bitmap",
       "file": "hub:font/games/banner_footer.c.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue025"
       ]
@@ -359,7 +359,7 @@
       "type": "bitmap",
       "file": "hub:font/games/card_green_footer.png",
       "ascent": -10,
-      "height": 7,
+      "height": 16,
       "chars": [
         "\ue027"
       ]
@@ -398,6 +398,186 @@
       "height": 72,
       "chars": [
         "\ue02b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/corner_bl.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue02c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/corner_br.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue02d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/corner_tl.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue02e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/corner_tr.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue02f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r1x2.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue030"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r1x4.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue031"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r1x8.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue032"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r2x1.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue033"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r2x4.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue034"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r2x8.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue035"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r4x1.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue036"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r4x2.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue037"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r4x8.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue038"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r8x1.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue039"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r8x2.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue03a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/r8x4.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue03b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/x1.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue03c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/x2.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue03d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/x4.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue03e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "hub:font/hud/fill/x8.png",
+      "ascent": -10,
+      "height": 16,
+      "chars": [
+        "\ue03f"
       ]
     }
   ]
