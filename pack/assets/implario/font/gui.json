@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "implario:font/gui/black_box.png",
+      "chars": [
+        ""
+      ],
+      "ascent": 250,
+      "height": 1500
+    }
+  ]
+}
