@@ -28,6 +28,11 @@
   "overlays": {
     "entries": [
       {
+        "directory": "glyphium_26_3",
+        "min_format": 97,
+        "max_format": 97
+      },
+      {
         "directory": "glyphium_26_2",
         "min_format": 88,
         "max_format": 96
