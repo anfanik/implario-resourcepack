@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 84,
+    "pack_format": 97,
     "description": [
       {
         "text": "Implario Resourcepack",
@@ -21,8 +21,22 @@
         "color": "gray"
       }
     ],
-    "supported_formats": [9, 84],
+    "supported_formats": [9, 97],
     "min_format": 9,
-    "max_format": 84
+    "max_format": 97
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "glyphium_26_2",
+        "min_format": 88,
+        "max_format": 96
+      },
+      {
+        "directory": "glyphium_26_1",
+        "min_format": 84,
+        "max_format": 87
+      }
+    ]
   }
 }

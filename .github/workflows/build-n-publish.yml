@@ -38,6 +38,12 @@ jobs:
 
             ['betterhud_**/**']
             force_include = true
+
+            ['glyphium_*/**']
+            force_include = true
+
+            ['**/shaders/**/*?.{fsh,vsh,glsl}']
+            shader_source_transformation_strategy = 'keep_as_is'
           artifact_name: 'artifacts'
 
   publish:
