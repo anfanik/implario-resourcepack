@@ -1,0 +1,25 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "implario:font/chat_channels/local.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "implario:font/chat_channels/global.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "implario:font/chat_channels/home.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [""]
+    }
+  ]
+}
