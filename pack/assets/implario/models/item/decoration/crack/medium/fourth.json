@@ -1,0 +1,19 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "implario:item/decoration/crack/medium/fourth",
+		"particle": "implario:item/decoration/crack/medium/fourth"
+	},
+	"elements": [
+		{
+			"from": [-8, 0.01, 0],
+			"to": [24, 0.01, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.05, -8.05]},
+			"faces": {
+				"up": {"uv": [16, 8, 0, 0], "texture": "#0"}
+			}
+		}
+	]
+}

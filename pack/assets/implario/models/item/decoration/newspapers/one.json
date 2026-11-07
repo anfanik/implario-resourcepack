@@ -1,0 +1,24 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "implario:item/decoration/newspapers/one",
+		"particle": "implario:item/decoration/newspapers/one"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 2],
+			"to": [13, 2, 14],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 1, 8]},
+			"faces": {
+				"north": {"uv": [0, 7, 5, 8], "texture": "#1"},
+				"east": {"uv": [0, 6, 6, 7], "texture": "#1"},
+				"south": {"uv": [5, 7, 10, 8], "texture": "#1"},
+				"west": {"uv": [6, 6, 12, 7], "texture": "#1"},
+				"up": {"uv": [5, 6, 0, 0], "texture": "#1"},
+				"down": {"uv": [10, 0, 5, 6], "texture": "#1"}
+			}
+		}
+	]
+}
