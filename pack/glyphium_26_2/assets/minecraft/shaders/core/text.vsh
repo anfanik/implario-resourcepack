@@ -32,7 +32,7 @@ vec3 glyphiumAnchor(vec3 position) {
     float offset = position.x - id * 16384.0 - floor(screen.x / 2.0);
     return vec3(
         floor(float(anchor % 3) * screen.x / 2.0) + offset,
-        floor(float(anchor / 3) * (screen.y - 56.0) / 2.0) + position.y - 3.0,
+        floor(float(anchor / 3) * (screen.y - 128.0) / 2.0) + position.y - 3.0,
         position.z
     );
 }
